@@ -1,0 +1,11 @@
+This application built using React.js Which is a JavaScript Library for building User Interface👍
+
+To Upload the Webiste, you have the build folder, it contains HTML, CSS, JAVASCRIPT compressed and minified files.
+
+*** Don't forget to add Environment Variables to the Hosting.
+
+Note: The Environment Variables is in the .env file.
+
+Thank you,
+
+Eng.Samer Shuaa
